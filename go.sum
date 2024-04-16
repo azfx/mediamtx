@@ -24,6 +24,8 @@ github.com/bluenviron/gohlslib v1.3.1 h1:87JEFXWfvSlfwYBX6JSCxsu+fr4zuBgk82Y4qgx
 github.com/bluenviron/gohlslib v1.3.1/go.mod h1:wD8ysO6HB90d17sxoIQXGHINo2KYj/mZirMnPtKLJZQ=
 github.com/bluenviron/gortsplib/v4 v4.8.1 h1:e9rxYIxPzmqEH0+Y7RQqzbXjVHNpchutGOurmptxW88=
 github.com/bluenviron/gortsplib/v4 v4.8.1/go.mod h1:1nYp6zYJq0qqRDG+NRAk6lrf6lugQBTYlSL9LPDJHQ4=
+github.com/bluenviron/gortsplib/v4 v4.8.2-0.20240416140313-22db17902410 h1:wJfSDH1C0XTWqTx5aZwBRHhvRR3WlpN1yIx7nunIRo4=
+github.com/bluenviron/gortsplib/v4 v4.8.2-0.20240416140313-22db17902410/go.mod h1:1nYp6zYJq0qqRDG+NRAk6lrf6lugQBTYlSL9LPDJHQ4=
 github.com/bluenviron/mediacommon v1.9.3 h1:qpY7m26aXdTW9SgcOHLJXazd4Jr4rle6IH2RFuQkUvE=
 github.com/bluenviron/mediacommon v1.9.3/go.mod h1:0z/KHiSTlaAB8FoyW+mYulZRG70Kupcy/0yZZkgLe5M=
 github.com/bytedance/sonic v1.5.0/go.mod h1:ED5hyg4y6t3/9Ku1R6dU/4KyJ48DZ4jPhfY1O2AihPM=
